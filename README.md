@@ -166,9 +166,10 @@ Continuous dates with:
 ### 🧑‍⚕️ Doctor
 [![Doctor Page](https://github.com/rishikesh199/Hospital_PowerBI/blob/main/Hospital_Doctor.png?raw=1)](https://github.com/rishikowerBI/blob/main/Hospital_Doctor.png)
 
+### 🧑‍⚕️ Hospital
+[![Patient Page](https://github.com/rishikesh199/Hospital_PowerBI/blob/main/Hospital.png?raw=1)](https://github.com/rishikesh199/Hospital_PowerBI/blob/main/Hospitaloctor)
+
 ### 💰 Finance
 [![Finance Page](https://github.com/rishikesh199/Hospital_PowerBI/blob/main/Hospital_Finance.png?raw=1)](https://github.com/rishikesh199/Hospital_PowerBI/blob/main/Hospital_Finance.png)
 
-### 🧑‍⚕️ Patient
-[![Patient Page](https://github.com/rishikesh199/Hospital_PowerBI/blob/main/Hospital.png?raw=1)](https://github.com/rishikesh199/Hospital_PowerBI/blob/main/Hospitaloctor)
 
