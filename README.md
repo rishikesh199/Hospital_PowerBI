@@ -2,6 +2,10 @@
 
 A comprehensive **Power BI dashboard** built using **PostgreSQL** as the data source and designed in **Figma** for a modern, intuitive UI. This solution provides a **360° view of hospital operations**, including patient management, doctor performance, room occupancy, medicine sales, and financial KPIs—helping administrators and decision-makers optimize resources and improve patient care.
 
+👉 **Click below to view the Hospital Dashboard:**
+
+[![View Hospital Report](https://img.shields.io/badge/Power%20BI-Open%20Hospital%20Dashboard-blue)](https://app.powerbi.com/view?r=eyJrIjoiMDQ2YmZmM2QtNmUzMy00MzNjLTljN2ItYmJmNjI3ZTNlZDdiIiwidCI6ImM2MDAxOTk3LWQ4MzEtNDY3Zi05NDZhLThhZWU1ZDc0NmQ1NCJ9)
+
 ---
 
 ## 🔹 Short Description / Purpose
